@@ -1,0 +1,17 @@
+pip install -r requirements.txt
+
+gunicorn
+matplotlib
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+tensorflow
+jupyter
+flask
+flask-socketio
+mysql-connector-python
+SQLAlchemy
+ipympl
+netowrkx
+graphviz
